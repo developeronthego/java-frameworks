@@ -12,7 +12,7 @@ public class LombokMain {
         /* Getter and setter check */
         RealEstate myHouse = new RealEstate();
         myHouse.setAddress("ul. Nowowiejska 54/3 Katowice");
-        System.out.println(myHouse:.getAddress());
+        System.out.println(myHouse.getAddress());
 
         /* Accessors check */
         RealEstateLombok emptyRealEstate = new RealEstateLombok();
