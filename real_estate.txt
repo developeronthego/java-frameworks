@@ -1,0 +1,1 @@
+RealEstateLombok(id=1, address=ul. Nowowiejska 54/3 Katowice)
